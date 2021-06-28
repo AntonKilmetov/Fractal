@@ -1,0 +1,10 @@
+C:\anton1\СomputationalPhysics\Fractal\Fractal\bin\Debug\Fractal.exe.config
+C:\anton1\СomputationalPhysics\Fractal\Fractal\bin\Debug\Fractal.exe
+C:\anton1\СomputationalPhysics\Fractal\Fractal\bin\Debug\Fractal.pdb
+C:\anton1\СomputationalPhysics\Fractal\Fractal\obj\Debug\Fractal.csprojAssemblyReference.cache
+C:\anton1\СomputationalPhysics\Fractal\Fractal\obj\Debug\Fractal.Form1.resources
+C:\anton1\СomputationalPhysics\Fractal\Fractal\obj\Debug\Fractal.Properties.Resources.resources
+C:\anton1\СomputationalPhysics\Fractal\Fractal\obj\Debug\Fractal.csproj.GenerateResource.cache
+C:\anton1\СomputationalPhysics\Fractal\Fractal\obj\Debug\Fractal.csproj.CoreCompileInputs.cache
+C:\anton1\СomputationalPhysics\Fractal\Fractal\obj\Debug\Fractal.exe
+C:\anton1\СomputationalPhysics\Fractal\Fractal\obj\Debug\Fractal.pdb
